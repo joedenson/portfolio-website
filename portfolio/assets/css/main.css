@@ -1663,6 +1663,24 @@ input, select, textarea {
 				width: auto;
 			}
 
+.dane{
+	width: 300px;
+	height: 200px;
+}
+
+.christy{
+	width: 300px;
+		height: 200px;
+	
+}
+
+.great-idea {
+	width: 300px;
+	height: 200px;
+
+}
+
+
 /* Button */
 
 	input[type="button"],
